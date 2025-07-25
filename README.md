@@ -1,4 +1,79 @@
 ## Hi there 👋
+<!-- README.md for Ravendranmanogar -->
+
+<h1 align="center">Hey 👋, I'm Ravendran Manogar</h1>
+<h3 align="center">🚀 Solo Backend Developer | SaaS Builder | eCommerce Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Invoice+Generator+SaaS;Lifelong+Learner+%F0%9F%93%9A" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently building a **SaaS Invoice Generator** with login, PDF, and Firebase integration  
+- 💼 I completed a full **Task Manager Application** (CRUD APIs using Node.js + Express + MongoDB)
+- 📚 Currently mastering **JWT Authentication & MERN Stack**
+- 🧠 Passionate about **solo building** profitable tools for developers & entrepreneurs
+- 💰 Making **$5K+ per month** while learning & building
+- 📍 Based in India 🇮🇳
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🚀 My Projects
+
+- 🧾 [Invoice Generator SaaS](https://github.com/Ravendranmanogar/Invoice-Generator) — Work-in-progress SaaS tool with PDF, Firestore, login
+- ✅ [Task Manager Backend](https://github.com/Ravendranmanogar/Task-Manager-Backend) — CRUD API with proper RESTful structure
+- 💬 [Quotes App](https://github.com/Ravendranmanogar/Quotes_App) — Flutter app to fetch & save quotes locally
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravendranmanogar&show_icons=true&theme=github_dark" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ravendranmanogar&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/ravendranmanogar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ravendranmanogar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🧠 Quote I Live By
+
+> "Build before you’re ready. Ship before it’s perfect." 🚀
+
+---
+
+### 🧩 Fun Fact
+
+I believe in building tools that people **actually use** — not just code for code's sake 💡
+
 
 <!--
 **Ravendranmanogar/Ravendranmanogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
