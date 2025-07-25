@@ -12,12 +12,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building a **SaaS Invoice Generator** with login, PDF, and Firebase integration  
+- 🔭 I’m currently building a Bookstore E-commerce Platform with product listings, cart, and checkout  
 - 💼 I completed a full **Task Manager Application** (CRUD APIs using Node.js + Express + MongoDB)
 - 📚 Currently mastering **JWT Authentication & MERN Stack**
 - 🧠 Passionate about **solo building** profitable tools for developers & entrepreneurs
-- 📍 Based in India 🇮🇳
-
 ---
 
 ### 🛠️ Tech Stack
@@ -31,7 +29,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
-
 
 ---
 
@@ -48,7 +45,7 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ravendranmanogar/" target="_blank">
+  <a href="[https://www.linkedin.com/in/ravendranmanogar/](https://www.linkedin.com/in/ravendran-manogar-753014243/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ravendranmanogar@gmail.com">
