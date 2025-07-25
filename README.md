@@ -45,15 +45,15 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/ravendranmanogar/](https://www.linkedin.com/in/ravendran-manogar-753014243/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <p align="left">
+  <a href="https://www.linkedin.com/in/ravendran-manogar-753014243/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravendran-manogar" height="30" width="40" />
   </a>
-  <a href="mailto:ravendranmanogar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="https://www.hackerrank.com/profile/ravendranmanogar" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravendranmanogar" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/ravendranmanogar" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
+</p>
 </p>
 
 ---
