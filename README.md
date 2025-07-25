@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Solo Backend Developer | SaaS Builder | eCommerce Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Invoice+Generator+SaaS;Lifelong+Learner+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Lifelong+Learner+%F0%9F%93%9A" />
 </p>
 
 ---
@@ -16,7 +16,6 @@
 - 💼 I completed a full **Task Manager Application** (CRUD APIs using Node.js + Express + MongoDB)
 - 📚 Currently mastering **JWT Authentication & MERN Stack**
 - 🧠 Passionate about **solo building** profitable tools for developers & entrepreneurs
-- 💰 Making **$5K+ per month** while learning & building
 - 📍 Based in India 🇮🇳
 
 ---
