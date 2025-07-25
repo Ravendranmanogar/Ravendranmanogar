@@ -1,6 +1,3 @@
-## Hi there 👋
-<!-- README.md for Ravendranmanogar -->
-
 <h1 align="center">Hey 👋, I'm Ravendran Manogar</h1>
 <h3 align="center">🚀 Solo Backend Developer | SaaS Builder | eCommerce Enthusiast</h3>
 
@@ -35,8 +32,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  
-
 </p>
 
 ---
@@ -65,6 +60,7 @@
 </p>
 </p>
 
+<!--
 ---
 
 ### 🧠 Quote I Live By
@@ -77,7 +73,7 @@
 
 I believe in building tools that people **actually use** — not just code for code's sake 💡
 
-
+-->
 <!--
 **Ravendranmanogar/Ravendranmanogar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
