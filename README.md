@@ -2,8 +2,10 @@
 <h3 align="center">🚀 Solo Backend Developer | SaaS Builder | eCommerce Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Figma+Designer;Lifelong+Learner+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Clean+Code+%7C+Scalable+APIs;Open+to+Collaboration+%F0%9F%92%AC";Lifelong+Learner+%F0%9F%93%9A" />
 </p>
+
+
 
 ---
 
@@ -41,8 +43,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ravendranmanogar&show_icons=true&theme=github_dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ravendranmanogar&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravendranmanogar&layout=compact&theme=github_dark" />
+  <br/>
+  <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api?user=Ravendranmanogar&theme=dark"  />
 </p>
+
 
 ---
 
@@ -60,6 +65,8 @@
   </a>
 </p>
 </p>
+
+
 
 <!--
 ---
